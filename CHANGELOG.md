@@ -4,6 +4,10 @@
 
 - "You miss 100 percent of the chances you don't take. — Wayne Gretzky" — Michael Scott
 
+## 6.3.0-beta.2
+
+- [tracing] fix: Fix bug adding headers to fetch requests
+
 ## 6.3.0-beta.0
 
 - [tracing] feat: Add `tracestate` header handling
